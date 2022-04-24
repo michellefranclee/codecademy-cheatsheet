@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+}
+
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+
+thead {
+  background-color: plum;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+}
